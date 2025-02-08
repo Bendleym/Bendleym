@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecuirty Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/bendleym)
+  - [Windows Least Privilege Lab](https://github.com/bendleym)
 
 <h2>📄 Certifications</h2>
 
