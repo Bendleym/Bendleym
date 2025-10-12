@@ -15,7 +15,7 @@
 
 <h2>📄 Certifications</h2>
 
-- **CompTIA Security+ (SY0-701)**(https://www.credly.com/badges/d8235baa-fc39-4c61-921e-61a18183ee88)
+- [**CompTIA Security+ Certification**](https://www.credly.com/badges/d8235baa-fc39-4c61-921e-61a18183ee88)
 - 
 - [**Google Cybersecurity Professional Certificate**](https://coursera.org/share/5c6ab12ea97cd761ded92d481f2d831a)
 
@@ -24,7 +24,7 @@
 <h2>📺 YouTube Content</h2>
 
 🎥 [**Active Directory Home Lab Tutorial**](https://www.youtube.com/watch?v=a83ASGn_V_s)  
-*(More cybersecurity + lifestyle content coming soon @ bend1k)*
+*(More cybersecurity + lifestyle content coming soon @ bent1k)*
 
 ---
 
