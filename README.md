@@ -1,40 +1,40 @@
-<h1>Hi, I'm Bendley!
+<h1>👋 Hey, I'm Bendley Milord</h1>
 
-<h2>👨‍💻 Cybersecuirty Projects:</h2>
+🎓 **Information Security Student @ USF** | 💼 **Security & Compliance Intern @ Brightstar Lottery**  
+🔐 **Security+ Certified** | 🧠 Focused on GRC, SOC Analysis, and Cybersecurity Governance  
 
-  - [Windows Least Privilege Lab](https://github.com/bendleym)
+---
+
+<h2>👨‍💻 Featured Projects</h2>
+
+- [**SOC Splunk Detection Lab**](https://github.com/Bendleym/SOC-Lab) – Built a home SOC lab with Splunk and Windows event forwarding to detect brute-force attacks.  
+- [**GRC Policy & Audit Lab**](https://github.com/Bendleym) – Developed ISO 27001-aligned policies, risk registers, and compliance documentation.  
+- [**IAM Privilege Audit Lab**](https://github.com/Bendleym) – Configured AD test domain and automated privilege audits via PowerShell.
+
+---
 
 <h2>📄 Certifications</h2>
 
-- [Google Cyersecurity Professional Certification Program](https://coursera.org/share/5c6ab12ea97cd761ded92d481f2d831a)
+- **CompTIA Security+ (SY0-701)**(https://www.credly.com/badges/d8235baa-fc39-4c61-921e-61a18183ee88)
+- 
+- [**Google Cybersecurity Professional Certificate**](https://coursera.org/share/5c6ab12ea97cd761ded92d481f2d831a)
 
-<h2>📺 Popular YouTube Videos</h2>
+---
 
-- [Tutuorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+<h2>📺 YouTube Content</h2>
 
-<h2> 🤳 Connect with me:</h2>
+🎥 [**Active Directory Home Lab Tutorial**](https://www.youtube.com/watch?v=a83ASGn_V_s)  
+*(More cybersecurity + lifestyle content coming soon @ bend1k)*
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-[twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/c/
-[instagram]: https://www.instagram.com//
-[linkedin]: https://linkedin.com/in/bendleym
+<h2>🤝 Connect with Me</h2>
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="left" alt="YouTube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/c/)  
+[<img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/bendleym)  
+[<img align="left" alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/)  
+<br clear="left"/>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *“Building, learning, and documenting my cybersecurity journey — from student to professional.”*  
