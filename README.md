@@ -1,7 +1,7 @@
 <h1>👋 Hey, I'm Bendley Milord</h1>
 
 🎓 **Information Security Student @ USF** | 💼 **Security & Compliance Intern @ Brightstar Lottery**  
-🔐 **Security+ Certified** | 🧠 Focused on GRC, SOC Analysis, and Cybersecurity Governance  
+🔐 **Security+ Certified** | 🧠 Focused on GRC, SOC Analysis, and IAM  
 
 ---
 
