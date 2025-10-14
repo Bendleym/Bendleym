@@ -8,8 +8,8 @@
 <h2>👨‍💻 Featured Projects</h2>
 
 - [**SOC Splunk Detection Lab**](https://github.com/Bendleym/SOC-Lab) – Built a home SOC lab with Splunk and Windows event forwarding to detect brute-force attacks.  
-- [**GRC Policy & Audit Lab**](https://github.com/Bendleym) – Developed ISO 27001-aligned policies, risk registers, and compliance documentation.  
-- [**IAM Privilege Audit Lab**](https://github.com/Bendleym) – Configured AD test domain and automated privilege audits via PowerShell.
+- [**GRC Policy & Audit Lab**](https://github.com/Bendleym/GRC-Lab) – Developed ISO 27001-aligned policies, risk registers, and compliance documentation.  
+- [**IAM Privilege Audit Lab**](https://github.com/Bendleym/IAM-Lab) – Configured AD test domain and automated privilege audits via PowerShell.
 
 ---
 
