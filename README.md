@@ -24,7 +24,7 @@
 <h2>📺 YouTube Content</h2>
 
 🎥 [**Active Directory Home Lab Tutorial**](https://www.youtube.com/watch?v=a83ASGn_V_s)  
-*(More cybersecurity + lifestyle content coming soon @ bent1k)*
+*(Coming soon!)*
 
 ---
 
