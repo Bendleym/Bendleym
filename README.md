@@ -1,40 +1,46 @@
-<h1>👋 Hey, I'm Bendley Milord</h1>
+# 🔐 IAM Conditional Access Automation Lab (Entra ID + Graph API)
 
-🎓 **Information Security Student @ USF** | 💼 **Security & Compliance Intern @ Brightstar Lottery**  
-🔐 **Security+ Certified** | 🧠 Focused on GRC, SOC Analysis, and IAM  
+## 🔍 Overview
+This lab simulates an identity security workflow in Microsoft Entra ID focused on Conditional Access enforcement and automated response actions. The project demonstrates how identity teams detect risky sign-in behavior, validate access context, and take automated steps to reduce account compromise risk while maintaining audit evidence.
 
----
+## 🎯 Lab Goals
+- Implement Conditional Access policies in Entra ID
+- Detect impossible travel style sign-in risk using sign-in telemetry and IP context
+- Automate verification and temporary account disablement using Graph API and Logic Apps style workflows
+- Document identity response playbooks for auditability and repeatable execution
 
-<h2>👨‍💻 Featured Projects</h2>
+## 🧰 Tools Used
+Microsoft Entra ID, Microsoft Graph API, Logic Apps style workflows, PowerShell, Active Directory (supporting identity concepts)
 
-- [**SOC Splunk Detection Lab**](https://github.com/Bendleym/SOC-Lab) – Built a home SOC lab with Splunk and Windows event forwarding to detect brute-force attacks.  
-- [**GRC Policy & Audit Lab**](https://github.com/Bendleym/GRC-Lab) – Developed ISO 27001-aligned policies, risk registers, and compliance documentation.  
-- [**IAM Privilege Audit Lab**](https://github.com/Bendleym/IAM-Lab) – Configured AD test domain and automated privilege audits via PowerShell.
+## ⚙️ Identity Detection and Response Workflow
+- Implemented Conditional Access policy controls for sign-in risk scenarios
+- Reviewed sign-in telemetry patterns and IP context to identify suspicious access
+- Automated verification steps and temporary account disablement actions
+- Documented response playbooks for token revocation, MFA escalation, and evidence tracking
 
----
+## 📌 Playbooks Documented
+- Risky sign-in triage and verification checklist
+- Temporary disablement and re-enable criteria
+- Token revocation and session control workflow
+- MFA escalation and enforcement steps
+- Audit evidence capture and case note structure
 
-<h2>📄 Certifications</h2>
+## 📌 Key Outcomes
+- Demonstrated identity focused security controls and response workflows
+- Practiced automation concepts using Graph API driven actions
+- Strengthened understanding of Conditional Access, sign-in telemetry, and identity governance
+- Built documentation aligned to repeatable analyst execution and audit readiness
 
-- [**CompTIA Security+ Certification**](https://www.credly.com/badges/d8235baa-fc39-4c61-921e-61a18183ee88)
-- 
-- [**Google Cybersecurity Professional Certificate**](https://coursera.org/share/5c6ab12ea97cd761ded92d481f2d831a)
+## 📸 Screenshots
 
----
+### 🖼️ OU Structure  
+<img width="764" height="541" alt="Capture2" src="https://github.com/user-attachments/assets/799d3271-db90-45cb-aa5b-0f21a554c2e3" />
 
-<h2>📺 YouTube Content</h2>
+### 🖼️ User Examples  
+<img width="742" height="538" alt="Capture3" src="https://github.com/user-attachments/assets/f8ebf3bc-58cd-4c96-acf9-633b681c2318" />
 
-🎥 [**Active Directory Home Lab Tutorial**](https://www.youtube.com/)  
-*(Coming soon!)*
+### 🖼️ Domain Admin Membership  
+<img width="423" height="548" alt="Capture4" src="https://github.com/user-attachments/assets/184e5254-9780-4326-b240-29ae1932326c" />
 
----
-
-<h2>🤝 Connect with Me</h2>
-
-[<img align="left" alt="YouTube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/c/)  
-[<img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/bendleym)  
-[<img align="left" alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/)  
-<br clear="left"/>
-
----
-
-⭐ *“Building, learning, and documenting my cybersecurity journey — from student to professional.”*  
+### 🖼️ PowerShell Privilege Audit  
+<img width="966" height="516" alt="Capture6" src="https://github.com/user-attachments/assets/aa50ef6f-15a8-4335-838b-1e39411b0251" />
