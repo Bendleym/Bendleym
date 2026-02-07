@@ -1,80 +1,81 @@
-# Home Cybersecurity Lab
+# 🛡️ Home Cybersecurity Lab
 
-## Overview
-This repository documents my personal home cybersecurity lab where I practice real world defensive security skills. The goal of this lab is to simulate enterprise environments, strengthen blue team knowledge, and build hands on experience in security operations, incident response, vulnerability management, and governance risk and compliance.
+## 📌 Overview
+Welcome to my personal cybersecurity home lab. This environment is where I simulate real world enterprise security scenarios and build hands on experience across blue team operations, GRC, IAM, and vulnerability management.
 
-I use this environment to reinforce concepts learned in school, certifications, and internships while creating projects that demonstrate practical security capabilities.
+As an Information Security student graduating in December 2025, I use this lab to strengthen practical skills, document projects, and demonstrate initiative beyond the classroom.
 
-## Objectives
-1. Build real world defensive security experience
-2. Practice SOC analyst workflows and alert triage
-3. Simulate attack scenarios and document incident response
-4. Perform vulnerability scanning and remediation
-5. Strengthen IAM and access auditing knowledge
-6. Develop GRC documentation aligned with security frameworks
+## 🎯 Purpose
+This lab is designed to prepare me for roles in:
+• SOC Analysis  
+• Governance Risk and Compliance  
+• Identity and Access Management  
+• Security Operations  
 
-## Lab Environment
+Each project focuses on real security workflows that organizations rely on daily.
 
-### Hardware
+## 🧪 Lab Environment
+
+### 💻 Hardware
 Dell OptiPlex 7050 SFF used as the primary lab machine
 
-### Virtualization
-VirtualBox for running multiple isolated environments
+### 🖥️ Virtualization
+VirtualBox running multiple isolated systems for testing and simulation
 
-### Operating Systems
-Windows 10 virtual machines
-Linux virtual machines
+### 🗂️ Operating Systems
+Windows 10 virtual machines  
+Linux virtual machines  
 
-## Core Security Tools
-Security Onion for threat monitoring and detection
-Elastic Stack for log analysis and SIEM workflows
-Tenable for vulnerability scanning and assessment
-PowerShell for automation and remediation
-Active Directory for identity and access testing
-pfSense for network segmentation and traffic control
+## 🛠️ Core Security Tools
+Security Onion for threat detection and monitoring  
+Elastic Stack for SIEM analysis and log investigation  
+Tenable for vulnerability scanning and assessments  
+PowerShell for automation and remediation  
+Active Directory for identity and access testing  
+pfSense for network segmentation and traffic visibility  
 
-## Projects Included
+## 📂 Featured Projects
 
-### Security Operations and Threat Monitoring
-Simulated SOC environment using log ingestion and alert triage  
-IOC analysis and documentation of findings  
-Creation of basic response playbooks  
+### 🔍 Security Operations and Threat Monitoring
+Simulated SOC environment with log ingestion and alert triage  
+IOC analysis and investigation workflows  
+Basic incident response playbook development  
 
-### Simulated Ransomware Incident Response
+### 🚨 Simulated Ransomware Incident Response
 Detection of suspicious activity through SIEM alerts  
-Investigation of attack indicators  
-Full incident report documenting timeline and containment steps  
+Attack timeline reconstruction  
+Incident documentation and containment planning  
 
-### Vulnerability Management
-Scanning Windows and Linux systems for misconfigurations  
-Prioritizing risks based on severity  
-Applying fixes using PowerShell and system hardening techniques  
+### 🛡️ Vulnerability Management
+Scanning Windows and Linux systems for risks and misconfigurations  
+Prioritizing vulnerabilities based on severity  
+Applying remediation using system hardening techniques  
 
-### GRC and Access Auditing
-Reviewing Active Directory privileges and access rights  
-Documenting risks aligned to NIST and ISO principles  
-Building basic policy and compliance documentation  
+### 🔐 GRC and Access Auditing
+Active Directory privilege and access reviews  
+Risk identification aligned to NIST and ISO principles  
+Creation of compliance focused documentation  
 
-## Skills Developed
+## 🧠 Skills Demonstrated
 Security monitoring and alert triage  
 Incident response investigation  
-Vulnerability analysis and remediation  
-Risk identification and documentation  
+Vulnerability assessment and remediation  
+Risk identification and reporting  
 Identity and access auditing  
-Security documentation and reporting  
+Security documentation and analysis  
 
-## Purpose
-This lab serves as a hands on learning platform to prepare for roles in SOC analysis, GRC, IAM, and security operations. Each project focuses on real scenarios that security teams deal with daily.
-
-## About Me
+## 👨🏾‍💻 About Me
 Information Security student graduating December 2025  
-Focused on blue team, IAM, and GRC career paths  
 CompTIA Security+ certified  
-Actively building practical experience through labs and projects  
+Focused on blue team, IAM, and GRC career paths  
+Actively building real world experience through labs and projects  
 
-## Future Plans
-Expand cloud security testing  
-Build IAM conditional access simulations  
-Add more automated detection scenarios  
-Continue documenting real world security cases
+## 🚀 Current Focus
+Expanding SOC detection capabilities  
+Building IAM access control simulations  
+Creating more documented incident response scenarios  
+Continuously improving hands on security experience  
+
+## 📈 Goal
+To demonstrate initiative, technical curiosity, and practical security skills through documented projects that reflect real world security operations.
 
