@@ -3,7 +3,7 @@
 ## 📌 Overview
 Welcome to my personal cybersecurity home lab. This environment is where I simulate real world enterprise security scenarios and build hands on experience across blue team operations, GRC, IAM, and vulnerability management.
 
-As an Information Security student graduating in December 2025, I use this lab to strengthen practical skills, document projects, and demonstrate initiative beyond the classroom.
+As an Information Security graduate, I use this lab to strengthen practical skills, document projects, and demonstrate initiative beyond the classroom.
 
 ## 🎯 Purpose
 This lab is designed to prepare me for roles in:
