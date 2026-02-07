@@ -65,7 +65,7 @@ Identity and access auditing
 Security documentation and analysis  
 
 ## 👨🏾‍💻 About Me
-Information Security student graduating December 2025  
+Information Security graduate  
 CompTIA Security+ certified  
 Focused on blue team, IAM, and GRC career paths  
 Actively building real world experience through labs and projects  
